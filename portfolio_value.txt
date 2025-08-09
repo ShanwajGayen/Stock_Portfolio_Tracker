@@ -1,0 +1,4 @@
+AAPL: 180 shares × $229.35 = $41283.00
+TSLA: 250 shares × $329.65 = $82412.50
+
+Total Portfolio Value: $123695.50
